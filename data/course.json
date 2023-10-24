@@ -1,0 +1,37 @@
+{
+  "term": "Summer",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahim-test-course-4"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahim-test-course-4"
+  },
+  "course_title": "ibrahim-test-course-4",
+  "course_description": "ibrahim-test-course-4",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ibrahim-test-course-4"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "0745e24e-a2a1-46ad-a8ff-2dc7ce317b90",
+  "site_short_id": "ibrahim-test-course-4"
+}
